@@ -24,7 +24,7 @@ I live in Mexico City. Currently, I'm working in software development while cont
 | 9  | MySQL                           |
 | 10 | SQL Server                      |
 | 11 | Git                             |
-| 11 | Wordpress                       |
+| 12 | Wordpress                       |
 
 ## Technologies you are learning
 > select * from LearningTechnologies
